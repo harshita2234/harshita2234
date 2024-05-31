@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋 I'm Harshita</h1>
 <p align="center">With a keen interest in coding and a talent for unravelling complex‬ algorithms, I approach problem-solving enthusiastically and with‬ determination. Alongside my ongoing minor specialisation in machine‬ learning and soft computing, I am deeply involved in diverse projects‬ spanning app development, web development, and data mining. My‬ collaborative nature and leadership skills complement my technical‬ expertise, allowing me to thrive in team environments while showcasing‬ independence and precision in individual tasks. I bring passion and‬ proficiency to every project, ensuring high-quality outcomes.‬</p>
 <p align="center"> When I'm not coding, I'm either drawing or singing</p>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita2234&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="harshita2234's Stats" style="width: 33%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita2234&theme=dracula&hide_border=true" alt="harshita2234's Streak" style="width: 33%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita2234&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="harshita2234's Top Languages" style="width: 33%;" />
-</div>
 
-
+![harshita2234's Stats](https://github-readme-stats.vercel.app/api?username=harshita2234&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![harshita2234's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshita2234&theme=dracula&hide_border=true)
+![harshita2234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita2234&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### Technologies I can work with
 #### :muscle: Strong
