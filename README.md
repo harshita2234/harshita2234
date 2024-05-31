@@ -2,7 +2,9 @@
 <p align="center">With a keen interest in coding and a talent for unravelling complex‬ algorithms, I approach problem-solving enthusiastically and with‬ determination. Alongside my ongoing minor specialisation in machine‬ learning and soft computing, I am deeply involved in diverse projects‬ spanning app development, web development, and data mining. My‬ collaborative nature and leadership skills complement my technical‬ expertise, allowing me to thrive in team environments while showcasing‬ independence and precision in individual tasks. I bring passion and‬ proficiency to every project, ensuring high-quality outcomes.‬</p>
 <p align="center"> When I'm not coding, I'm either drawing or singing</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita2234&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita2234&layout=compact" alt="Top Langs">
+</p>
 
 ### Technologies I can work with
 #### :muscle: Strong
