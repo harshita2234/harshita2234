@@ -2,8 +2,10 @@
 <p align="center">With a keen interest in coding and a talent for unravelling complex‬ algorithms, I approach problem-solving enthusiastically and with‬ determination. Alongside my ongoing minor specialisation in machine‬ learning and soft computing, I am deeply involved in diverse projects‬ spanning app development, web development, and data mining. My‬ collaborative nature and leadership skills complement my technical‬ expertise, allowing me to thrive in team environments while showcasing‬ independence and precision in individual tasks. I bring passion and‬ proficiency to every project, ensuring high-quality outcomes.‬</p>
 <p align="center"> When I'm not coding, I'm either drawing or singing</p>
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita2234&layout=compact)
+
 ### Technologies I can work with
-#### :flexed_biceps: Strong
+#### :muscle: Strong
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python Libraries](https://img.shields.io/badge/-Python_Libraries-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,7 +20,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-007ACC?style=flat-square&logo=xml&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-<br>
+
 #### :sunglasses: Intermediate
 
 ![Software Engineering](https://img.shields.io/badge/-Software_Engineering-007ACC?style=flat-square&logo=softwareengineering&logoColor=white)
