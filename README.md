@@ -43,3 +43,6 @@
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-FFA500?style=flat-square&logo=cisco&logoColor=white)
 ![Network Protocols](https://img.shields.io/badge/-Network_Protocols-007ACC?style=flat-square&logo=network&logoColor=white)
+___
+[![](https://visitcount.itsvg.in/api?id=harshita2234&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
